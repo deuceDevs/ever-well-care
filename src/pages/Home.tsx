@@ -7,13 +7,13 @@ import {
 } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { MapPin, BookOpen } from "lucide-react";
-import alexa from "../../public/assets/1.jpg";
-import rei from "../../public/assets/5.jpg";
-import angeline from "../../public/assets/6.jpg";
-import dannah from "../../public/assets/7.jpg";
-import zoe from "../../public/assets/4.jpg";
-import crizzel from "../../public/assets/3.jpg";
-import joana from "../../public/assets/2.jpg";
+import alexa from "/assets/1.jpg";
+import rei from "/assets/5.jpg";
+import angeline from "/assets/6.jpg";
+import dannah from "/assets/7.jpg";
+import zoe from "/assets/4.jpg";
+import crizzel from "/assets/3.jpg";
+import joana from "/assets/2.jpg";
 import {
   Carousel,
   CarouselContent,
@@ -137,7 +137,7 @@ export default function Home() {
   return (
     <div className="">
       {/* Hero */}
-      <section className="min-h-screen border flex flex-col lg:flex-row justify-around items-center bg-[url('../../public/assets/heroBg2.jpg')] bg-cover bg-center bg-no-repeat p-4 sm:p-8">
+      <section className="min-h-screen border flex flex-col lg:flex-row justify-around items-center bg-[url('/assets/heroBg2.jpg')] bg-cover bg-center bg-no-repeat p-4 sm:p-8">
         <div className="heading max-w-full lg:max-w-[50%] text-center lg:text-start">
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-poppins text-purple-950 font-bold">
             Women's and{" "}
@@ -228,7 +228,7 @@ export default function Home() {
         </div>
       </section>
       {/* About Section */}
-      <section className="min-h-screen w-full flex items-center justify-center px-4 py-10 bg-[url('../../public/assets/bgbg.jpg')] bg-cover bg-center">
+      <section className="min-h-screen w-full flex items-center justify-center px-4 py-10 bg-[url('/assets/bgbg.jpg')] bg-cover bg-center">
         <div className="about-container flex flex-col gap-6 sm:gap-10 max-w-4xl w-full">
           <div className="p-3 w-full">
             <h1 className="font-poppins text-4xl sm:text-6xl lg:text-8xl text-white">

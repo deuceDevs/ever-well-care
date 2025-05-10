@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <section className="min-h-screen w-full flex items-center justify-center px-4 py-10 bg-[url('../../public/assets/bgbg.jpg')] bg-cover bg-center">
+    <section className="min-h-screen w-full flex items-center justify-center px-4 py-10 bg-[url('/assets/bgbg.jpg')] bg-cover bg-center">
       <div className="about-container flex flex-col gap-6 sm:gap-10 max-w-4xl w-full">
         <div className="p-3 w-full">
           <h1 className="font-poppins text-4xl sm:text-6xl lg:text-8xl text-white">

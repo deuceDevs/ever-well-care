@@ -12,7 +12,7 @@ export default function Blogs() {
         "Early detection and education can significantly improve survival rates for breast and cervical cancer.",
       date: "May 5, 2025",
       author: "Joana De Guzman",
-      image: "../../public/assets/joanaBlog.jpg",
+      image: "/assets/joanaBlog.jpg",
     },
     {
       id: 2,
@@ -21,7 +21,7 @@ export default function Blogs() {
         "Routine vaccination protects children, infants, and even unborn babies from life-threatening diseases.",
       date: "May 5, 2025",
       author: "Alexa Mayen Bernardo",
-      image: "../../public/assets/alexaBlog.jpg",
+      image: "/assets/alexaBlog.jpg",
     },
     {
       id: 3,
@@ -30,7 +30,7 @@ export default function Blogs() {
         "Daily routines like sleep, activity, and screen-free bonding build long-term wellness for families.",
       date: "May 5, 2025",
       author: "Angeline Nicole Ortega",
-      image: "../../public/assets/nicoleBlog.jpg",
+      image: "/assets/nicoleBlog.jpg",
     },
     {
       id: 4,
@@ -39,7 +39,7 @@ export default function Blogs() {
         "Childhood obesity affects physical and emotional well-being — prevention starts with small healthy steps.",
       date: "May 5, 2025",
       author: "Dannah Morales",
-      image: "../../public/assets/dannahBlog.jpg",
+      image: "/assets/dannahBlog.jpg",
     },
     {
       id: 5,
@@ -48,7 +48,7 @@ export default function Blogs() {
         "Menstrual health is vital for public health, education, and gender equity — yet stigma persists.",
       date: "May 5, 2025",
       author: "Rei Tominaga",
-      image: "../../public/assets/reiBlog.jpg",
+      image: "/assets/reiBlog.jpg",
     },
     {
       id: 6,
@@ -58,7 +58,7 @@ export default function Blogs() {
         "Understanding illnesses like colds, fever, and chickenpox helps parents respond effectively and calmly.",
       date: "May 5, 2025",
       author: "Crizzel San Gabriel",
-      image: "../../public/assets/crizelBlog.jpg",
+      image: "/assets/crizelBlog.jpg",
     },
     {
       id: 7,
@@ -67,7 +67,7 @@ export default function Blogs() {
         "Injury risks at home — from falls to fires — are preventable with awareness and small changes.",
       date: "May 5, 2025",
       author: "Zoe Landayan",
-      image: "../../public/assets/zoeBlog.jpg",
+      image: "/assets/zoeBlog.jpg",
     },
   ];
 

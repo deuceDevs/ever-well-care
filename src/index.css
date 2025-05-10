@@ -6,17 +6,17 @@
 
 @font-face {
   font-family: Poppins;
-  src: url(".././public/assets/fonts/Poppins-Regular.ttf");
+  src: url("/assets/fonts/Poppins-Regular.ttf");
 }
 
 @font-face {
   font-family: PoppinsLight;
-  src: url(".././public/assets/fonts/Poppins-Light.ttf");
+  src: url("/assets/fonts/Poppins-Light.ttf");
 }
 
 @font-face {
   font-family: MontserratItalic;
-  src: url(".././public/assets/fonts/MontserratAlternates-SemiBoldItalic.ttf");
+  src: url("/assets/fonts/MontserratAlternates-SemiBoldItalic.ttf");
 }
 
 @theme inline {

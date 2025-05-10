@@ -16,7 +16,7 @@ const blogDetails = [
       "Empowering Health: Raising Awareness About Cervical and Breast Cancer",
     author: "Joana De Guzman",
     date: "May 5, 2025",
-    image: "../../public/assets/joanaBlog.jpg",
+    image: "/assets/joanaBlog.jpg",
     content: [
       {
         type: "heading",
@@ -122,7 +122,7 @@ const blogDetails = [
     title: "Immunization Awareness for Children and Mothers",
     author: "Alexa Bernardo",
     date: "May 5, 2025",
-    image: "../../public/assets/alexaBlog.jpg",
+    image: "/assets/alexaBlog.jpg",
     content: [
       {
         type: "heading",
@@ -224,7 +224,7 @@ const blogDetails = [
     title: "Balance for Two: Healthy Habits for Moms and Kids",
     author: "Angeline Nicole Ortega",
     date: "May 5, 2025",
-    image: "../../public/assets/nicoleBlog.jpg",
+    image: "/assets/nicoleBlog.jpg",
     content: [
       {
         type: "heading",
@@ -331,7 +331,7 @@ const blogDetails = [
     title: "Preventing and Addressing Childhood Obesity",
     author: "Dannah Morales",
     date: "May 5, 2025",
-    image: "../../public/assets/dannahBlog.jpg",
+    image: "/assets/dannahBlog.jpg",
     content: [
       {
         type: "heading",
@@ -425,7 +425,7 @@ const blogDetails = [
       "Promoting Dignity, Education, and Well-being: Menstrual Health and Hygiene",
     author: "Rei Tominaga",
     date: "May 5, 2025",
-    image: "../../public/assets/reiBlog.jpg",
+    image: "/assets/reiBlog.jpg",
     content: [
       {
         type: "heading",
@@ -516,7 +516,7 @@ const blogDetails = [
     title: "Common Childhood Illnesses and First Aid Every Parent Should Know",
     author: "Crizzel San Gabriel",
     date: "May 5, 2025",
-    image: "../../public/assets/crizelBlog.jpg",
+    image: "/assets/crizelBlog.jpg",
     content: [
       {
         type: "heading",
@@ -610,7 +610,7 @@ const blogDetails = [
     title: "Safety at Home: Injury Prevention and Creating Healthy Spaces",
     author: "Zoe Landayan",
     date: "May 5, 2025",
-    image: "../../public/assets/zoeBlog.jpg",
+    image: "/assets/zoeBlog.jpg",
     content: [
       {
         type: "heading",

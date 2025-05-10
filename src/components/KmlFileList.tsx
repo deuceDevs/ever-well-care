@@ -5,7 +5,7 @@ export function KmlFileList() {
   const kmlFiles = [
     {
       fileName: "NutritionAndHealth.kml",
-      displayName: "Nutrition and Health Access",
+      displayName: "Family Safety and Risk Areas",
       description: "Locations related to nutrition and health services",
       downloadPath: "/kml-files/NutritionAndHealth.kml",
       placemarkCount: 1,
@@ -27,7 +27,7 @@ export function KmlFileList() {
     },
     {
       fileName: "Family_Safety_and_Risk_Areas_Maps.kml",
-      displayName: "Family Safety and Risk Areas",
+      displayName: "Nutrition and Health Access",
       description: "Safety information and risk areas for families",
       downloadPath: "/kml-files/Family_Safety_and_Risk_Areas_Maps.kml",
       placemarkCount: 9,

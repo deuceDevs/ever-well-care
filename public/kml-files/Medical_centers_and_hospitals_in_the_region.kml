@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1j0BxdGA-AjK75lbh_gRdELj4bwVTpWrS">
+	<name>google earth</name>
+	<gx:CascadingStyle kml:id="__managed_style_183A02FFBD37E57B71A5">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.45455</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0E5966865537E57B71A5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_183A02FFBD37E57B71A5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_27EA973FEE37E57B71A5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_082919544E37E57B71A3">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.18182</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_27EA973FEE37E57B71A5">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.18182</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_192143EE0537E57B71A2">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.45455</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0C5028F41737E57B71A2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_192143EE0537E57B71A2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_082919544E37E57B71A3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="00B09CE8CE37D8FC4EFC">
+		<name>Carpa Hopsital</name>
+		<LookAt>
+			<longitude>120.913336900039</longitude>
+			<latitude>14.96890320000266</latitude>
+			<altitude>17.62494417712378</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>813.4297164619784</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C5028F41737E57B71A2</styleUrl>
+		<Point>
+			<coordinates>120.9133368999915,14.96897295920094,17.37373691122631</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D1E0B607637D900BDBC">
+		<name>LN Laboratory &amp; Diagnostic Center</name>
+		<LookAt>
+			<longitude>120.9029946999069</longitude>
+			<latitude>14.95582339996467</latitude>
+			<altitude>18.9561267030971</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>813.2853663731657</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C5028F41737E57B71A2</styleUrl>
+		<Point>
+			<coordinates>120.9029893540886,14.95582598235337,18.97521255503884</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="095669538137E494D772">
+		<name>Bulacan Medical Center</name>
+		<gx:mid>/g/1tgw2kl0</gx:mid>
+		<gx:fid>0x339653c345796f6d:0x309015109bd4c2fd</gx:fid>
+		<LookAt>
+			<longitude>120.8169218</longitude>
+			<latitude>14.8586047</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2581.66296280908</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E5966865537E57B71A5</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>120.8158686136329,14.85937327338178,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BBA4A6D2237E49674A7">
+		<name>Sacred Heart Hospital of Malolos Inc. Diagnostic and Medical Arts Center</name>
+		<gx:mid>/g/11bwpzq2t0</gx:mid>
+		<gx:fid>0x339653cf9b5518a9:0xd9b6830e588e6c03</gx:fid>
+		<LookAt>
+			<longitude>120.8178056</longitude>
+			<latitude>14.851569</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2581.766083937716</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E5966865537E57B71A5</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>120.8178056,14.851569,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04EBA9DB4337E496B387">
+		<name>Klinika Bulakan Multispecialty Clinic &amp; Laboratory</name>
+		<gx:mid>/g/11gnq187xs</gx:mid>
+		<gx:fid>0x339653d148dfe541:0xd3fc89fef93a5489</gx:fid>
+		<LookAt>
+			<longitude>120.8761791</longitude>
+			<latitude>14.7962048</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2582.575925153847</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E5966865537E57B71A5</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>120.8762092,14.7962719,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

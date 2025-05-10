@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1OGo4z8AwO9ssnzdG1FbkN6bGkSLCpkWj">
+	<name>Safe Play Areas and Outdoor Wellness Spots</name>
+	<gx:CascadingStyle kml:id="__managed_style_11BCFC395837E53A4D59">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_00A92EB14737E53A4D59">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0C33C68BC937E53A4D58">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_00A92EB14737E53A4D59</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_11BCFC395837E53A4D59</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0AFF8EEEF337E2C740E7">
+		<name>Hacienda Angelita Nature Farm and Resort</name>
+		<description><![CDATA[<p>Escape the hustle of Manila and experience the perfect blend of modern comfort and traditional farm life at our resort in San Rafael, Bulacan. Enjoy eco-friendly rooms, hands-on farm activities, friendly dogs at Winter's Pawland, and a heritage restaurant where every dish tells a flavorful story.<br></p><div><br></div>]]></description>
+		<LookAt>
+			<longitude>120.9370073927709</longitude>
+			<latitude>14.99935830187998</latitude>
+			<altitude>25.26043103404917</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>813.2605199866521</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C33C68BC937E53A4D58</styleUrl>
+		<Point>
+			<coordinates>120.9369969204893,14.99925588288552,25.15555794236793</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E215E0C9837E2CA8FCF">
+		<name>San Rafael River Adventure</name>
+		<description><![CDATA[<div>Offers outdoor activities such as kayaking, fishing, and river cruises. The serene environment is perfect for families looking to enjoy nature and engage in recreational activities.<br></div>]]></description>
+		<LookAt>
+			<longitude>120.9769352001926</longitude>
+			<latitude>14.95544559997474</latitude>
+			<altitude>29.24710507306213</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>813.2869424499222</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C33C68BC937E53A4D58</styleUrl>
+		<Point>
+			<coordinates>120.9769561360222,14.95545444918528,29.33841409433406</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0320D91D8137E2D054DC">
+		<name>Starzone Badminton Court</name>
+		<description><![CDATA[<div><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Starzone Badminton Court is a local indoor sports venue located in Baliuag, Bulacan.</span> <span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">It offers badminton courts suitable for both casual play and training sessions.</span> <span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">The facility is popular among local athletes and enthusiasts, though it can get busy during peak hours</span><br></div>]]></description>
+		<LookAt>
+			<longitude>120.8838539999039</longitude>
+			<latitude>14.95238668926564</latitude>
+			<altitude>13.73521642290789</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>813.2999219055637</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C33C68BC937E53A4D58</styleUrl>
+		<Point>
+			<coordinates>120.883848766104,14.95235002887083,13.84918027154113</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="061A980FB537E2D3EDAF">
+		<name>Jump-Off of Mt. Manalmon And Mt. Gola</name>
+		<description><![CDATA[<div>These twin peak offer beginner friendly hikes with scenic views Sierra Madre range and the Madlum River. The trails pass through rivers and caves, providing a diverse trekking experience.&nbsp;</div>]]></description>
+		<LookAt>
+			<longitude>121.0819193999456</longitude>
+			<latitude>15.17000910011116</latitude>
+			<altitude>44.06773330925624</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>812.5227306438319</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C33C68BC937E53A4D58</styleUrl>
+		<Point>
+			<coordinates>121.0818852423161,15.16992913264383,44.9010690093063</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0060F6BFD237E2D718B8">
+		<name>Malangaan Cave and Spring/Mount Secret </name>
+		<description><![CDATA[<div>A natural attraction featuring unique rock formations and a refreshing spring. The area is suitable for light trekking and offers spots for relaxation and picnics.</div>]]></description>
+		<LookAt>
+			<longitude>121.0602969998168</longitude>
+			<latitude>15.00532830006767</latitude>
+			<altitude>65.56098003128109</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>813.2531031548572</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C33C68BC937E53A4D58</styleUrl>
+		<Point>
+			<coordinates>121.0602786717051,15.00530426058585,66.49061428116349</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="034C4A883F37E2DD6906">
+		<name>Kidzooona SM City Bliwag</name>
+		<description><![CDATA[<p>Kidzooona at SM City Baliwag is an indoor play center that combines fun and learning through role-play areas, ball pits, slides, and interactive games. Perfect for kids’ development and also offers party packages for special events.<br></p><div><br></div>]]></description>
+		<LookAt>
+			<longitude>120.890353105652</longitude>
+			<latitude>14.9601686944046</latitude>
+			<altitude>14.6468225110166</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>813.6180112791772</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C33C68BC937E53A4D58</styleUrl>
+		<Point>
+			<coordinates>120.8903373956097,14.96015225164276,14.64688470603344</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FF86D97DA37E2F2AE1B">
+		<name>San Rafael Team Building Venue</name>
+		<description><![CDATA[<span style="color: rgb(238, 240, 255); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(16, 18, 24); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><span class="font" style="font-family:&quot;Google Sans&quot;, Arial, sans-serif"><span class="size" style="font-size:18px"><span></span></span></span></span><p>Experience a blend of nature and structured activities at our riverfront venue—perfect for building team cohesion and enhancing communication. Enjoy customizable team-building programs with both land and water-based adventures.<br></p><div><br></div>]]></description>
+		<LookAt>
+			<longitude>120.9768336523582</longitude>
+			<latitude>14.95467975417304</latitude>
+			<altitude>24.23552292924322</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>813.2676586872549</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C33C68BC937E53A4D58</styleUrl>
+		<Point>
+			<coordinates>120.9768179522217,14.95467849004258,24.38522516626955</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

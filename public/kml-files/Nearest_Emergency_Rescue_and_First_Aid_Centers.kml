@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1rZhrY5TSCsKN1fGQpAleiTiD1K01nU7N">
+	<name>Nearest Emergency Rescue and First Aid Centers</name>
+	<gx:CascadingStyle kml:id="__managed_style_21BBC5CB8037E5160ADF">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=303f9f&amp;id=2211&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_43A45FB59F37E5160ADC">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2124&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0FB89C935537E5160ADF">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_14966374AA37E5160ADF</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_21BBC5CB8037E5160ADF</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_0433FD412E37E5160AD9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1694399F5837E5160AD9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2728C2D9B737E5160AD9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_3A695EDDF637E5160ADC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_43A45FB59F37E5160ADC</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_00505C7EE237E5160ADE</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_25169EB66437E5160ADC">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_00505C7EE237E5160ADE">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2124&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2728C2D9B737E5160AD9">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=ffee58&amp;id=2006&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_019E97BA2937E5160ADC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1F82AD933937E5160ADC</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_25169EB66437E5160ADC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1694399F5837E5160AD9">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=ffee58&amp;id=2006&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_14966374AA37E5160ADF">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=303f9f&amp;id=2211&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1F82AD933937E5160ADC">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<Placemark id="0D1421CB0337E4A671FC">
+		<name>Maguinao Barangay Hall</name>
+		<description><![CDATA[<li><div>The Barangay Hall is the frontline government center in Maguinao where residents can report emergencies or request assistance. They coordinate with MDRRMO and municipal rescue teams during crises.<br></div><div><br></div><div>Number:&nbsp;0922 292 7282<br></div><br></li><div><br></div><div>Source:&nbsp;<a href="https://www.cybo.com/PH-biz/pamahalaang-barangay-ng-maguinao">https://www.cybo.com/PH-biz/pamahalaang-barangay-ng-maguinao</a><br></div>]]></description>
+		<gx:mid>/g/11bzv_m_p8</gx:mid>
+		<gx:fid>0x3397019b6dcf8d89:0xbecacfa4a3040429</gx:fid>
+		<LookAt>
+			<longitude>120.9340634</longitude>
+			<latitude>15.0216807</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1016.257574054395</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0433FD412E37E5160AD9</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QURiREJLdUd1TldnMm4vcGFYR0xRYm5MUVZsLzVPUVgxQ013eVpiUGU0MjVkMElSaWc4L1ZFKzd5aHE1TDl2VUd5djJ1VzZjb01YS2lKRWNTem1NeGNubjBZWHY0V0p2VmNyMGxpYkV0VDFrZ1o2N1JjMWxHTmtoT3d6ZUNnTTNHTnlNSSticjF3eHQxdnY1SnJFS2k1MEVPN0YrTFgvdkVzcE9NejJWRTQzRDJBQWIrczVDTlRXb3k5MHJOWWd2REt3RzJCLys2NG1rNElROWQrcExiN0ozelZlSnM0Z3haeW1BOUw1OExQMElCcUp2K1hIckFvMWdDTGJoRUp0ZjF3Rmx3aVU9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKsqz3XN7rC8es_3O5PM2I1RKvr2SsIahndonMuBhh4gCiSDXtvYp-QrPlufqCwo5R-h3YptOlM_R_dxZEbNEmx-oqMDuA7qisgZn2W8Ha0hndHUQQScaFRs-JnYdtgmPr-_rMTqA8eTlJNuf-0j3sqDfUHv5JGAsMvAooRMZNWz1aor-IObObtgHYxde11mzUK1fq7bPbYTL4fq-wF5lMCo7glhG5qC1GDf7np9h_v4o4G6Vgth8h9aWi7FMwwoSEoofBPWP7C21tE?authuser=1&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>120.9340634,15.0216807,0</coordinates>
+		</Point>
+	</Placemark>
+	<Folder id="07B89F43A137E4B3A150">
+		<name>FIRE STATIONS</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_019E97BA2937E5160ADC</styleUrl>
+		<Placemark id="03DF3E577437E4A1A920">
+			<name>San Rafael Fire Station</name>
+			<description><![CDATA[<div><div><div>This is the frontline government agency for disaster response in San Rafael. They provide 24/7 ambulance and rescue services, trained emergency responders, and first aid support for all barangays<br></div><div><br></div><div>📞 Contact Numbers:<br></div></div><div>Landline: (044) 761-5562<br></div><div>Mobile: 0956-059-5718<br></div></div><div><div><br></div><div>Source:&nbsp;<a href="https://philippines.worldplaces.me/view-place/82835244-mdrrmo-san-rafael-rescue.html">https://philippines.worldplaces.me/view-place/82835244-mdrrmo-san-rafael-rescue.html</a><br></div></div><div><br></div>]]></description>
+			<gx:mid>/g/11tgg7g2dt</gx:mid>
+			<gx:fid>0x3397004f82a55555:0x1dc27b0d629e6535</gx:fid>
+			<LookAt>
+				<longitude>120.9274358</longitude>
+				<latitude>14.9821479</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>1016.467354142588</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_3A695EDDF637E5160ADC</styleUrl>
+			<gx:Carousel>
+				<gx:Image kml:id="hosted_image_QURiREJLc213REROYm1DNWF4VmY3K29WRGpxNmJ2cVdqVUh0MjI1Y3NWNUpEcGhCMzE3RG5ZTmFNbXpFU3JCa0F1cXNFTjFsdUR5by9MbFdDbmVUaElUODNETFZONy9XdngzdWRrVDU1ZlpzTGlmZVRaZ0VmVHFXZkN6eXUzR0dPS29iUzBCZmFhTHZOaGo0dTdhRW9OVHo0NFd4VDcvZ2tvanJiZmsxaWVBWUFseDhQVFcxdnBTU1BMWUF2QTNLSkY5OXQ3K1BCaTh4SzF6TDk5ZXBCVEVoTktvLy9zMnBYTnpTTHF4S0RRaXNoWFlwUEdEUVFSTEtueUVPZGxKdnpFdERvL0k9">
+					<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKv69YWHcWziqbTAppKrTMmSvW7gQ17xQptGHgioTYxSkbhPTfuRGIzGToXYUNAZdI14NRX5ZCACQHmEGGbz3ZtmPfdtArsyg2JiAN496QTJRBbJYMPM1ebk-4GBVuSaTfFXSGZ0ZJwMhDDED_X-e6Sr30NZckQw7RDlTYzlLpK5j8ppTjNtitkXP7_C1amsY4IdN1rvq2SQqkAn3CXzakvHhJvWrt56GY-zPQuEg5cVL4Dmz5KhRJY6lEu6-hI8TTB2IMuGfym_Gt8?authuser=1&amp;fife=s{size}</gx:imageUrl>
+				</gx:Image>
+			</gx:Carousel>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.9274768,14.9822323,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="05F600B0F837E4D08920">
+			<name>San Ildefonso Fire Station</name>
+			<description><![CDATA[<div><span>The San Ildefonso Fire Station is part of the Bureau of Fire Protection (BFP) Region 3.</span> <span>It is dedicated to preventing and suppressing destructive fires, investigating their causes, enforcing the Fire Code and other related laws, and responding to man-made and natural disasters and other emergencies.</span> <span>The station also conducts community fire safety education and emergency preparedness programs.<br><br></span><b>📞 Contact Information:</b></div><div><b>Emergency Hotline:</b> <span>0923-449-8123</span><br></div><div><br></div><div><span></span><b>Email:</b>&nbsp;<a href="mailto:sanildefonsobulacanbfp@yahoo.com">sanildefonsobulacanbfp@yahoo.com</a><br></div><ul><li><p>Source:&nbsp;<a href="https://www.facebook.com/SanildefosoFS/">https://www.facebook.com/SanildefosoFS/</a><br></p></li></ul><div><br></div>]]></description>
+			<gx:mid>/g/1pzsb59m0</gx:mid>
+			<gx:fid>0x339704401e275807:0x83fdf8a10f50f76c</gx:fid>
+			<LookAt>
+				<longitude>120.9475615</longitude>
+				<latitude>15.0787416</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>1015.953843429848</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_3A695EDDF637E5160ADC</styleUrl>
+			<gx:Carousel>
+				<gx:Image kml:id="hosted_image_QURiREJLdFRMTzMyRk5iV0JzcUxjMnNHNmlJMU94U3JUam9zSzVTNXJsV3FTZTdmNUdsd2V6NjZrVVJoYWF3aWxzWmdSMVpBT29KS2t4dG1LUStuMm45a2QzUDhwa3JtSUhIZTJWbU5LUUNEYlpPZDVxRHA3UWpFcTVWSE1SZDNjTWZYUE56SitwRFJJYUErTXVYY0RtUkVRK25KY2YveFF5QVFURFpjRW44MzRORjVFbmdsanVjTm5TVXgwSWY3NVpjdFJ3VnZQMDB0QTFZaFBldDFEazQwckdqeE8vVGdnZjltOVQyL0VwZXRJTkdZdXdqVGI4dFZMVk81clA5d0hVTmJUYlk9">
+					<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKuQOcjVKj6MzWfl6Ae3ioJ2GxDENeMKs2zeU2OAB7zfszB53USoyBK00IGquPcA5CPZ3aEP54m5PaxFmwv_x-SLOutYdgXlMMD0kXPM21yNMVk8ZVhW8yFj3hv59id9FEWRUKo9XVjZqVjYr443_fU_AIQHecaunMdVnX_O0N6Jlbh5JG7je2TzRVQJ8VYx8ts24h64d1e2q9BhVfoxHt9uISqBNP2OlR3qWQoYHi8g4brlIpyB3eqCmStO2Tuy7j07NgFkEX-StjM?authuser=1&amp;fife=s{size}</gx:imageUrl>
+				</gx:Image>
+			</gx:Carousel>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.947528,15.0786755,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder id="09F0FD600337C9AAEE10">
+		<name>FIRST AID CENTERS</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_019E97BA2937E5160ADC</styleUrl>
+		<Placemark id="0993E2B75A37A0563789">
+			<name>San Rafael Rural Health Unit 1</name>
+			<description><![CDATA[<div><div>San Rafael Rural Health Unit I (RHU I), located in Barangay Sampaloc, San Rafael, Bulacan, serves as a primary health center of the community. It is under the local government headed by Dr. Ma. Cristina Vergel de Dios, available for general consultations, maternal and child health care, immunizations, disease prevention programs, and health education. It is a prime mover in ensuring accessible and community-based health care for its residents, especially for those living in the most rural areas. The construction of Super Health Center has also been planned in the expanded San Rafael Government Center to serve as a much-improved health facility. Amenities of this health center shall include birthing privileges, diagnostic facilities, and minor surgical abilities, all attesting to the town's commitment toward upgrading healthcare infrastructure locally. It offers wheelchair accessible parking and entrance.<br></div><div><br></div><div>Source:&nbsp;<a href="https://healthcarephilippines.com/directory/san-rafael-rural-health-unit-i/">https://healthcarephilippines.com/directory/san-rafael-rural-health-unit-i/</a><br></div><br></div><div><br></div>]]></description>
+			<gx:mid>/g/11y8rgggvq</gx:mid>
+			<gx:fid>0x3397010064baac17:0x9cec97ea1fd05a63</gx:fid>
+			<LookAt>
+				<longitude>120.9275788</longitude>
+				<latitude>14.9819202</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>1016.468560887408</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FB89C935537E5160ADF</styleUrl>
+			<gx:Carousel>
+				<gx:Image kml:id="hosted_image_QURiREJLdnAxOURIa2xlbUptMjFrVXF3M1NaZWlUaWZHQlhFODc5QmxjaXdIaFBvbStOK1B1V1BoMzltcUdmcXllc2w3WDVjQUduOTlyWGxFYVFkRVM5VTJuNlpiMEJQdERBUlZvc2JnK3BVZEdPZkZiZGRDSlJtcVhUNlphYWlPbDJacjNoY2U2L1pMb1RVQWwyMGpBdlZQbjhseHFEZFpJT2Z2c25zUjd1S0t1c3hIWWhYdmQxTUMzOGdsaEtnKy9PTFU5SDhOTXZPREVLaUZpUTByaFBLV1JlNkovQnpjc05pc1BvWmpIS1RvTDRidWNJV1NJbHBqOGl4U09zYXVqVE9UbW89">
+					<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKsObqvKQbKdA44zR2l7sHTxVkiGylisw1TfHAxz6OQuENAv3oCONKvIgoJuCqcsQioqJGWkuYkF5WyGonHU0k2vsr6VPHWJQ0QSlXOo5Or75E3EMjcSqFljddUpwG1okcB0VN3Vq3NsAEmXWQEfJrx2S3hY6D5bpWsHZnR6w_P8IYLAqc064q-sgrKKKJfGx8hUzYoyRDJqw6L6wmwf_m4X8Ebc3MgFb-A0064Fc4Yyccv6WDrYfx6NRcDvs2MV_1Gw3yA_YxlNwk0?authuser=1&amp;fife=s{size}</gx:imageUrl>
+				</gx:Image>
+			</gx:Carousel>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.9280294142682,14.98231405059655,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="007F92125537A03B6EF4">
+			<name>Maguinao Rural Health Unit II San Rafael Bulacan</name>
+			<description><![CDATA[<div><div>The San Rafael Rural Health Unit II (RHU II), located in Barangay Maguinao, San Rafael, Bulacan, is a government-run health facility dedicated to providing essential primary healthcare services to the local community. Operating from Monday to Friday, RHU II offers general medical consultations, maternal and child health services, immunization programs, health education, and disease prevention initiatives. As a vital part of San Rafael’s public health system, it works in coordination with other health units and barangay health stations to ensure accessible and comprehensive medical care for residents, especially in remote or underserved areas. With its commitment to improving the well-being of the community, RHU II plays a crucial role in promoting a healthier and more informed population in San Rafael.<br></div><div><br></div><div>Source:&nbsp;<a href="https://healthcarephilippines.com/directory/san-rafael-rural-health-unit-ii-maguinao/">https://healthcarephilippines.com/directory/san-rafael-rural-health-unit-ii-maguinao/</a><br></div></div><div><br></div>]]></description>
+			<gx:mid>/g/11g_jbk6x</gx:mid>
+			<gx:fid>0x33970184f1e13c2f:0x62939f3ee3dfde6d</gx:fid>
+			<LookAt>
+				<longitude>120.9341311</longitude>
+				<latitude>15.0240514</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>1016.244977069451</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FB89C935537E5160ADF</styleUrl>
+			<gx:Carousel>
+				<gx:Image kml:id="hosted_image_QURiREJLdndYSEt5WDdkQm85SjMyRHFvczdnWkZkNkdRTVF1RWxmU1JUQ3BnTUdFYjZBa3crSWNiM2t1TklhUEdIM29JV05RR0Z0Qjk0QkFuRjlwNzV5SDd6TE1QVFl0Y0hJUWNSSkhDbW1xVGtuTzVmWlhwMmpRSVpKM2R4V0VVb3lDQk82ZlZYR292NTR3dENLY1RVckRPaHJDZXlwY2V4cWxpT3k0WFpyekN4VkUvc0NLQVJrYjJBQWQ5eUxaZzA2SUNzQXlMQ0NKNGR2ZTF3QnI5QkMyS2ZURG9WWldIRmNLYi8vN3VUakZZUW9ESFVpWm1ydkYwVm1KT3BLT3NNTTFHd1E9">
+					<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKv4oY-cZk19BYYmpvT-RLcdn7aKlxiUo6gCHQJeSYvqAZarmxohJvTXeO5jsdyu60svDTtSUODS-oV6bhsDcvXDkjYJSenQzDTsKccvYWJPNm1XMNPFRJ37Bwysu6ytDQoRs3EI77GfOzvBN45iq-k3NiQ58u_IXr8RDjfXgIxe7_ZqsD9BJrUNiteUPEXpnXOwzt0JU5yBvkxZuCLGTwNWDMpB1h0JIsvQv47UnBJccJNaijTZz8TDibOei6hNvJKVRktTiPBConY?authuser=1&amp;fife=s{size}</gx:imageUrl>
+				</gx:Image>
+			</gx:Carousel>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.9341311,15.0240514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0DA89AB56237A0412097">
+			<name>Crosshealth Diagnostic Laboratory</name>
+			<description><![CDATA[<div><div>Crosshealth Diagnostic Laboratory, a medical diagnostic facility located in Cruz Na Daan, San Rafael, Bulacan, is directed by Rosalina Sanguyo. The clinic offers laboratory services, such as clinical laboratory tests, ultrasound examinations, and electrocardiograms (ECGs) with consultations from specialists in different fields. There are plans to expand the services to include X-ray facilities shortly. For inquiries and appointments, one may call 0933-9333114. Cruz Na Daan is well known for being accessible and has a<br></div><div>community-based health-care service.<br></div><div><br></div><div>Source:&nbsp;<a href="https://sanrafael.gov.ph/aboutus/socio-economic-profile/health-nutrition/">https://sanrafael.gov.ph/aboutus/socio-economic-profile/health-nutrition/</a><br></div><div><br></div><div><br></div></div><div><br></div>]]></description>
+			<gx:mid>/g/11rykb02m4</gx:mid>
+			<gx:fid>0x3396552fd6be615d:0x6277e70107b048b4</gx:fid>
+			<LookAt>
+				<longitude>120.9345001</longitude>
+				<latitude>15.0265144</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>1016.231887611798</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FB89C935537E5160ADF</styleUrl>
+			<gx:Carousel>
+				<gx:Image kml:id="hosted_image_QURiREJLdkxrc1IvQXprd0h1ZENBc0ptbHZzRDlrZUJVcmhvQ0RzRXV4UUdSNDl0MExOOHVESjROS3pNMFZRS003TndxS012UzhrY213emoyQTIwRmlscVAyeXFjL2R4anNxandvSTh2N1RNRXhVRXZYbWx3TUNpUUdHbno0dU02NXdtaU5wTGxkTUVWYi8rTlF4N1VEaTNzN2cxMWZMNit1bXNXQ0FoK0R6RFVsa2cyK1JZOUJ3RWZNN2toUzZJQnhkZ2Mya1BYN2VuOUVMdnpBSUt5dVg0K2x3NVBCbXJOTkZwSjZGUkhucHJwSklkRU1teGU0MVhJS2pJN0JxRVgwa3hDUVk9">
+					<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKurlMoasPfpmVVYou_inQQ6TzOjWpyVD3xKWQrFlyatU3Tf2WDC0IGdT2BWTcTMkyGb9sHvp6F9TscHCTtPWPoGnpex_r7EyYiDY_OBnRNcS_jNVwrRoJD5ViBcybA7hXslwUXD_lcjCJaWRjNgKRRDDJl4IF8l0cLD-KXwSy5DtF5NA5C6EpYpetLwT3n_pnypsyUpEGnHI4DquwPp8RmM5rYpqbxRnmtAU7DjWjOzQ7-ykXAzma-8PoRjKTpR1lnSfb38bGItPiQ?authuser=1&amp;fife=s{size}</gx:imageUrl>
+				</gx:Image>
+			</gx:Carousel>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.9345039,15.0265137,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="032F3C48A637A03C3BB0">
+			<name>Medicus Diagnostic Center - San Rafael Branch</name>
+			<description><![CDATA[<div><div>Medicus Diagnostic Center – San Rafael Branch is a trusted medical diagnostics facility located at The Casobey Building along Cagayan Valley Road in Barangay Galas Maasim, San Rafael, Bulacan. Operating from Monday to Saturday, 6:00 AM to 4:00 PM, the center offers a wide range of diagnostic and laboratory services to cater to the needs of the local community. These services include clinical laboratory tests such as CBC and lipid profiles, imaging services like X-ray and ultrasound, electrocardiograms (ECG), drug testing, and primary medical consultations. As part of the nationwide Medicus Philippines network, the San Rafael branch is equipped with modern diagnostic technology, including fully automated chemistry analyzers, ensuring accurate and reliable results. The center also promotes accessibility through special health packages and discounts during specific periods, such as paydays and holidays. With a strong commitment to providing high-quality, patient-centered care, Medicus San Rafael continues to be a reliable partner in the community’s health and wellness.<br></div><div><br></div><div>Source:&nbsp;<a href="https://www.facebook.com/medicussanrafael/">https://www.facebook.com/medicussanrafael/</a><br></div></div>]]></description>
+			<gx:mid>/g/11j0hlrnlq</gx:mid>
+			<gx:fid>0x3397034a4e73a2a3:0x5b02b438452fc15e</gx:fid>
+			<LookAt>
+				<longitude>120.9376405</longitude>
+				<latitude>15.03623410000001</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>1016.180212729875</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FB89C935537E5160ADF</styleUrl>
+			<gx:Carousel>
+				<gx:Image kml:id="hosted_image_QURiREJLdjdDaGtpRUFOUmg3cGhjVFJmOXo0RlZ1aHNabndYRjVUOU5adEt6WDYxeG4zM3ZTZUJvbGlFOXhEZWdmeVZpbm1ibnlkVEVqcXM3LzY0b3JtRGZ4Rk5CTStzemo2K003UmZVSHhaYWFOZlk4VFFFSW9IejFPcXFEWkZTVVlYZUkwTno3TjB5c2l2QXRSYzJTelQxU1R1Wkx5K2dDT29pamZLL0htREU3Zmtmak1pblNFOWRHMEIvZVk0MzJqbEdWS3hqYStXR2lBY2oxblhLbkgrRG9SSk5PQ0x4b3l2c3E3TGtNYUt5NldFZENXQ0lNVTltZ085UG9JQjJURWJJY1E9">
+					<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKsaerN3k-EirFYJASpIARl2oie17227t8RFTA5yiXwC08j0EMDIFCMXVnge9tiYhVdxc0_veCcVKT8TcBBENZOa_h9A8L_fjWuuWP11-aWFKJdQTZhEV-fEskPEZNbo8pgEs2KTkcpiZgOHVG0Pas1w3wNAvzzN2T1wfrZfqC-9AdVcAJOj8TVA84R2Cptfp0UXu7ADwLZ3ZAoZI0S1fTXsOJ0HrrbA_e_1yLcfqKsBxzn56uMdQLV6MbBmf37iPrQhkSLEvl-kvYo?authuser=1&amp;fife=s{size}</gx:imageUrl>
+				</gx:Image>
+			</gx:Carousel>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.9478450036246,15.05312011578111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0CD14DB51837A03D55DC">
+			<name>Capihan Barangay Health Center</name>
+			<description><![CDATA[<div>Capihan Barangay Health Center is a government health facility located in the barangay of Capihan in San Rafael, Bulacan. Under Barangay Health Worker Eliza Bairan, this health center refers to primary medical services for the locality. Such services include the following: general consultation, maternal and child health care, immunization, health education, and disease prevention programs. The Capihan Barangay Health Center is part of the municipality's broad healthcare system with all other health units, ensuring that healthcare services are as accessible and good to all residents of the municipality. For inquiries or appointments, you can call the center through this number: 0932-7128637. It serves the public in terms of health and wellness in the barangay.<br></div>]]></description>
+			<gx:mid>/g/11cn5pygdk</gx:mid>
+			<gx:fid>0x339701a55f0b358d:0x8120ec789b29095</gx:fid>
+			<LookAt>
+				<longitude>120.9316211</longitude>
+				<latitude>15.0020492</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>1016.361814755641</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FB89C935537E5160ADF</styleUrl>
+			<gx:Carousel>
+				<gx:Image kml:id="hosted_image_QURiREJLdlZIaTVISlVkd2w3WXFTd0NsSUNHZzdkczdVNkRaRW4wT3hqYWM1SGZNVC9YUGRlcS9kN3c2QXlKRmlvUEhBM2tUaG1tMmY1U0FvRGNMT0tNSXZnWU1sNU1pa1dFaDA5OENYaWREY1QxT1FXZGxZWG00T3lBYkY0RWJLb3N1dDVsVjlTdXJ3N0FlSFlxbkQvMGtuODZCTlplMXVWVVN4cVhEdy9wWnVXS3FDckIyb24wYzZWeXowKy9xNW9BK1h2VUJOWDk2NWlxcmROaWJMd3MrZkx3VmlGRWtJWHdUNVpsL2xDNEVkM2FuYzdVSGJaN0U0OG1HaGxlRkFlYjRJOFE9">
+					<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKtVH70WbcifS8ysIquXXHogPntkl4-Vp9JxjFiIUxFaogisFv2Q2ffdCU63TO5Xkti_EjS-JP_uZhywk3bFS0saCeG81DPENgsFXghUbt9req-N2JHID--f3OpI1KM5hRgFD4_5HrprYST3OxOK8lXSjy88ss9zUjKEc-yacYaQ6Y_Y0b_SfTjdjfMcZ8oF-jMgCLAzWqpshKDvOfqg78qicPa9xbZ6CvmDq-qP0glpD63az474rn2XTDefdluhHUbcxPOiWCAmIQA?authuser=1&amp;fife=s{size}</gx:imageUrl>
+				</gx:Image>
+			</gx:Carousel>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.9316211,15.0020492,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="04C3EA5B6E37A0AE329C">
+			<name>Diliman I Health Center</name>
+			<description><![CDATA[<p>A Barangay Health Station (BHS) under the San Rafael Municipal Health Office, this facility provides <b>primary healthcare services</b> such as: First aid, Immunization, Pre-natal and post-natal care, Family planning, Health education, Treatment of minor illnesses, Basic nutrition programs<br></p><p>It is part of the local government's efforts to decentralize healthcare delivery, bringing essential services closer to barangay-level residents.<br></p><div><br></div><div>Source: <a href="https://pia.gov.ph/super-health-center-ng-san-rafael-itatayo-sa-pinalaking-government-center/">https://pia.gov.ph/super-health-center-ng-san-rafael-itatayo-sa-pinalaking-government-center/</a><br></div><div><br></div>]]></description>
+			<gx:mid>/g/1tg4yyr_</gx:mid>
+			<gx:fid>0x33970164b5e99b8d:0x7991c548a721b1ae</gx:fid>
+			<LookAt>
+				<longitude>120.9535307</longitude>
+				<latitude>15.0231469</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>1016.249783459102</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0FB89C935537E5160ADF</styleUrl>
+			<gx:Carousel>
+				<gx:Image kml:id="hosted_image_QURiREJLdDdmSUI3TmtjeVQ4cVk0SHFwMG53K29lQjVxcklYak5zbHA3Wkc0MTN1VEMva3pQc0h5Y1ZhZEt4amVpYXFocVNQdGRVWkMvNW54eENKNjUwKzQyOGxRaWpsREcvalZhSHByVVdZWGdDZTQ5QmNzQWJzbVVHLzZja2tWQjFtMmRGQnU2RVVlRjh6bVZsQjdjNUo5Ri9uNVJxWm1sTnpBeFF1cG42eFpBL0lIMEtKVTNHMXhVMFRoUUZQcmZYOU5nSFFVNzF2RTRyOTlPMHdtdFdSVEhmUkdkejFXemtsK2ZKV2Y3enBzWjFod1ZydzErMzhEaVRQK1cxYXpRNUN0eVk9">
+					<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKt6Ad7nUa5dScfHNh-YkuGHAi4hWAFVL3hTyoGrWNFoFBoaoIlFhUsNcaij9_SfpcYfSMb9oPI5mV7QF_KFMK24vy8NIrMv3YglI4cuged9Jy-pRMiD-731wOQeQCjFK7HwRl2y5cpJQFTQ7-oODt2lSJiD42uK-NI5nQWlqcmUMaCf6axj-rLgkWGoe0s5smGMpQGLnIwLtqrcVVZZ1lZcnytwjWovGCSNjvJm-dMfx63tA7_UBRTu9prPCLcvdlhlIDBBBBYXaag?authuser=1&amp;fife=s{size}</gx:imageUrl>
+				</gx:Image>
+			</gx:Carousel>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.9535307,15.0231469,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1slCE-Vgs3sgwBOfHiIlUT2sP4H3hw9wU">
+	<name>Nicole: Women and Child health Map</name>
+	<gx:CascadingStyle kml:id="__managed_style_2F395F7C0F37E527BBD8">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1D37BC8CA537E527BBD8">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.66667</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0535A6933237E527BBD8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1D37BC8CA537E527BBD8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2F395F7C0F37E527BBD8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="09E8F4201A37D94155C9">
+		<name>OB Gyne and Children&apos;s Clinic</name>
+		<description><![CDATA[<div><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">A trusted women's and children's health provider serving both Baliuag and San Rafael.</span> <span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">The clinic offers comprehensive obstetric and pediatric care, including prenatal checkups, childbirth services, and pediatric consultations.</span> <span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Known for its compassionate and professional staff, it ensures quality care for mothers and children.</span><br></div>]]></description>
+		<LookAt>
+			<longitude>120.8981610000504</longitude>
+			<latitude>14.9602369998904</latitude>
+			<altitude>16.96905403457979</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>813.266638872883</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0535A6933237E527BBD8</styleUrl>
+		<Point>
+			<coordinates>120.8981636746002,14.96030939598663,16.95485158710491</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07B9B0B94C37E0E7877F">
+		<name>Dr. Sheila Crosshealth</name>
+		<description><![CDATA[<div><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Doc Sheila provides dedicated OB-Gyne services at Crosshealth Diagnostic Laboratory in Cruz na Daan, San Rafael.</span> <span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">She offers personalized care for women's health, including prenatal consultations and gynecological services.</span><br></div>]]></description>
+		<LookAt>
+			<longitude>120.8944842065486</longitude>
+			<latitude>14.94886916766165</latitude>
+			<altitude>17.00581662982797</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>813.0597092657993</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0535A6933237E527BBD8</styleUrl>
+		<Point>
+			<coordinates>120.8944969359911,14.94881075065753,16.84131892047421</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0269CE590037D94DB071">
+		<name>Mother Therese Mothers Clinic</name>
+		<description><![CDATA[<div><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Located in Tangos, Baliuag, Mother Therese Mothers Clinic specializes in maternity and lying-in services.</span> <span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">It provides prenatal consultations, childbirth assistance, and postpartum care in a comfortable setting.</span> <span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">The clinic is open 24/7, ensuring round-the-clock care for expectant mothers.</span><br></div>]]></description>
+		<LookAt>
+			<longitude>120.8957536157047</longitude>
+			<latitude>14.96960361218079</latitude>
+			<altitude>14.70469701198416</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>813.6104090265871</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0535A6933237E527BBD8</styleUrl>
+		<Point>
+			<coordinates>120.8957589461434,14.96958035944357,14.68568151616586</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DA80D81A037D9532220">
+		<name>JDG Maternity and Lying-in clinic</name>
+		<description><![CDATA[<div><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Situated in Tilapayong, Baliuag, JDG Maternity and Lying-In Clinic offers comprehensive maternal care services.</span> <span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Accredited for maternity care packages, it provides prenatal checkups, delivery services, and postnatal care, ensuring the well-being of both mother and child.</span><br></div>]]></description>
+		<LookAt>
+			<longitude>120.8840744416159</longitude>
+			<latitude>14.97268225002941</latitude>
+			<altitude>13.63608663962504</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>813.4846010172625</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0535A6933237E527BBD8</styleUrl>
+		<Point>
+			<coordinates>120.884063743011,14.97264866032501,13.39679757994562</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D3BDC4E7437D94EFB24">
+		<name>Little Miracles Children&apos;s Clinic</name>
+		<description><![CDATA[<div>Located along B.S. Aquino Avenue in Barangay Tangos, Little Miracles Children's Clinic offers comprehensive pediatric care for children of all ages. Services include routine check-ups, immunizations, and developmental assessments. The clinic is known for its compassionate staff and child-friendly environment.<br></div>]]></description>
+		<LookAt>
+			<longitude>120.8953499050937</longitude>
+			<latitude>14.97125568714098</latitude>
+			<altitude>15.00750036696226</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>813.579721885035</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0535A6933237E527BBD8</styleUrl>
+		<Point>
+			<coordinates>120.8953628015914,14.9713142530554,14.88786796702524</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B1DE5C7F237D9471D98">
+		<name>Pediatric Specialty Clinic</name>
+		<description><![CDATA[<div>Situated in Baliuag, the Pediatric Specialty Clinic provides specialized medical care for children with specific health needs. The clinic offers services in various pediatric subspecialties, ensuring comprehensive care for child's health concerns.<br></div>]]></description>
+		<LookAt>
+			<longitude>120.9343957815993</longitude>
+			<latitude>15.02593656716793</latitude>
+			<altitude>22.22338719251705</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>813.246984268626</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0535A6933237E527BBD8</styleUrl>
+		<Point>
+			<coordinates>120.9343904347453,15.02594947778395,22.27899833385279</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05DD74FF4437D9583A98">
+		<name>Florendo-Cruz Pediatric Clinic</name>
+		<description><![CDATA[<div>Florendo-Cruz Pediatric Clinic, located in San Rafael, Bulacan, offers a range of pediatric services including consultations, vaccinations, and health monitoring. The clinic operates from Monday to Saturday, 9:00 AM to 3:00 PM.<br></div>]]></description>
+		<LookAt>
+			<longitude>120.934910900323</longitude>
+			<latitude>15.02860139889868</latitude>
+			<altitude>20.82847595157265</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>813.5355917358538</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0535A6933237E527BBD8</styleUrl>
+		<Point>
+			<coordinates>120.9349269483826,15.02857298354323,20.82846210357948</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06EC99596837D948AD76">
+		<name>SMLC Behavioral Theraphy</name>
+		<description><![CDATA[<div>SMLC Behavioral Therapy is a private, results-oriented organization dedicated to providing excellent intervention to individuals with special needs and behavioral challenges.<br></div>]]></description>
+		<LookAt>
+			<longitude>120.8953628016638</longitude>
+			<latitude>14.97129099812171</latitude>
+			<altitude>14.92549520669173</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>813.7061788671419</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0535A6933237E527BBD8</styleUrl>
+		<Point>
+			<coordinates>120.8953628015914,14.9713142530554,14.88785853414972</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01E6F3832737D94A42BF">
+		<name>Marinny Center for Hope Developmental Theraphy</name>
+		<description><![CDATA[<div>Marinny Center for Hope is a child developmental therapy and special education center committed to transforming the lives of children with exceptionalities. Their mission is to provide support and compassionate care to children with special needs, helping them realize their fullest potential through affordable and quality services.<br></div>]]></description>
+		<LookAt>
+			<longitude>120.9291064151923</longitude>
+			<latitude>14.99523903988816</latitude>
+			<altitude>20.27395684098886</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>813.2796183285247</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0535A6933237E527BBD8</styleUrl>
+		<Point>
+			<coordinates>120.9291171074949,14.99520030902297,20.38062143208467</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="071A7B457537D9526FE8">
+		<name>Marian College</name>
+		<description><![CDATA[<div><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Marian College of Baliuag is a private educational institution offering programs from preschool to college.</span> <span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">It provides a nurturing environment for students, emphasizing academic excellence and holistic development.</span> <span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">The college is known for its commitment to quality education and community involvement</span><br></div>]]></description>
+		<LookAt>
+			<longitude>120.9001790915658</longitude>
+			<latitude>14.95364643111854</latitude>
+			<altitude>18.45020653393532</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>813.6454535568191</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0535A6933237E527BBD8</styleUrl>
+		<Point>
+			<coordinates>120.9001790917256,14.95363868035442,18.43269187113983</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

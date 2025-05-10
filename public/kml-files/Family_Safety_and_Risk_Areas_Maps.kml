@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1dzqzdUdrJxDHJUtj4IHHuNBupz-SZGhO">
+	<name>Dannah: Family Safety and Risk Areas Maps</name>
+	<visibility>0</visibility>
+	<gx:CascadingStyle kml:id="__managed_style_29829C67AC37E528FEEB">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_186669669037E528FEEB">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0EDB4398F437E528FEEB">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_186669669037E528FEEB</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_29829C67AC37E528FEEB</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="088273667937E469798B">
+		<name>Paombong, Bulacan</name>
+		<description><![CDATA[<div><span style="color: rgb(0, 29, 53); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><span class="font" style="font-family:&quot;Google Sans&quot;, Arial, sans-serif"><span class="size" style="font-size:18px"><span>Paombong, Bulacan is a flood-prone area due to its location on a delta and the natural drainage system leading to Manila Bay.<span>&nbsp;</span>While floods typically recede quickly, land subsidence and the conversion of wetlands to fishponds slow down drainage and extend flood duration.<span>&nbsp;</span>The town also faces risks from typhoons and high tides, particularly impacting coastal communities.</span><span class="pjBG2e"><span class="UV3uM" style="white-space: nowrap;">&nbsp;</span></span></span></span></span><br></div>]]></description>
+		<gx:mid>/m/06pzzf</gx:mid>
+		<gx:fid>0x339651ddbf3464dd:0x63b97f7e65ae5047</gx:fid>
+		<LookAt>
+			<longitude>120.7846542</longitude>
+			<latitude>14.8125872</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>22474.45124879243</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EDB4398F437E528FEEB</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>120.7867129,14.8102948,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="020DBC682F37E46D9137">
+		<name>Hagonoy, Bulacan</name>
+		<description><![CDATA[<div class="WaaZC" style="color: rgb(0, 29, 53); font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><div class="RJPOee EIJn2" style="color: rgb(0, 29, 53); animation: auto ease 0s 1 normal none running none;"><div class="rPeykc" style="margin: 0px 0px 20px; hyphens: auto;"><div><span><span>Hagonoy, Bulacan is prone to flooding due to its low-lying coastal location on Manila Bay and the presence of numerous rivers.<span>&nbsp;</span>This makes it a high-risk area for families, particularly those in the coastal barangays.<span>&nbsp;</span></span>Additionally, land subsidence and sea-level rise exacerbate the risk of flooding.</span><br></div><span><span class="pjBG2e"><span class="UV3uM" style="white-space: nowrap;"><div>&nbsp;<br></div><div class="NPrrbc" style="margin-right: 6px; display: inline-flex;"><div class="BMebGe btku5b fCrZyc LwdV0e FR7ZSc OJeuxf" aria-label="View related links" role="button" tabindex="0" style="display: inline-block; vertical-align: middle; cursor: pointer; outline: 0px; color: rgb(11, 87, 208);"><div class="niO4u" style="display: flex; justify-content: center; position: relative; align-items: stretch; width: 28px; background-color: transparent; border-radius: 9999px; margin: 0px auto; outline: transparent solid 1px; outline-offset: -1px; height: 20px; min-height: 20px;"><div class="kHtcsd" style="display: flex; align-items: center; justify-content: center; width: 28px; border-radius: 9999px; height: 20px;"><br></div></div></div></div></span></span></span></div><div>&nbsp;<br></div></div><div class="RJPOee EIJn2" style="color: rgb(0, 29, 53); animation: auto ease 0s 1 normal none running none;"><div class="rPeykc" style="margin: 0px 0px 20px; hyphens: auto;"><span><span class="pjBG2e"><span class="UV3uM" style="white-space: nowrap;"><div class="NPrrbc" style="margin-right: 6px; display: inline-flex;"><div class="BMebGe btku5b fCrZyc LwdV0e FR7ZSc OJeuxf" aria-label="View related links" role="button" tabindex="0" style="display: inline-block; vertical-align: middle; cursor: pointer; outline: 0px; color: rgb(11, 87, 208);"><div class="niO4u" style="display: flex; justify-content: center; position: relative; align-items: stretch; width: 28px; background-color: transparent; border-radius: 9999px; margin: 0px auto; outline: transparent solid 1px; outline-offset: -1px; height: 20px; min-height: 20px;"><div class="kHtcsd" style="display: flex; align-items: center; justify-content: center; width: 28px; border-radius: 9999px; height: 20px;"><br></div></div></div></div></span></span></span></div></div></div><div class="WaaZC" style="color: rgb(0, 29, 53); font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><div class="RJPOee EIJn2" style="color: rgb(0, 29, 53); animation: auto ease 0s 1 normal none running none;"><br></div></div><div><br></div>]]></description>
+		<gx:mid>/m/06pvyf</gx:mid>
+		<gx:fid>0x33965020099d9671:0x27356e31a53fd020</gx:fid>
+		<LookAt>
+			<longitude>120.71483115</longitude>
+			<latitude>14.81900985</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>22473.7848864107</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EDB4398F437E528FEEB</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>120.734995,14.791933,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C09380BD637E470B756">
+		<name>Malolos, Bulacan</name>
+		<description><![CDATA[<div><span style="color: rgb(0, 29, 53); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><span class="font" style="font-family:&quot;Google Sans&quot;, Arial, sans-serif"><span class="size" style="font-size:18px"><span>Malolos Bulacan has several family safety and risk areas, primarily related to natural disasters like flooding and typhoons.<span>&nbsp;</span>Flooding is a major concern due to the city's location in a delta environment and river systems that drain into Manila Bay.<span>&nbsp;</span>The floating communities in areas like Pamarawan, Masile, Caliligawan, and Namayan are particularly vulnerable to coastal erosion and typhoon-induced flooding.<span>&nbsp;</span>The city also faces risks from other natural hazards like earthquakes and human-induced hazards such as industrial accidents and criminal activities.</span><span class="pjBG2e"><span class="UV3uM" style="white-space: nowrap;">&nbsp;</span></span></span></span></span><br></div>]]></description>
+		<gx:mid>/m/03x06f</gx:mid>
+		<gx:fid>0x339653af937db881:0x32b2f559d7f23f59</gx:fid>
+		<LookAt>
+			<longitude>120.82400555</longitude>
+			<latitude>14.82292315</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>44946.75747100489</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EDB4398F437E528FEEB</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>120.8160376,14.8527393,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04DE24F1C937E477DFA8">
+		<name>Diliman II Evacuation Center</name>
+		<description><![CDATA[<div class="LT6XE" style="display: flow-root; overflow-y: clip; position: relative; overflow-wrap: break-word; max-width: 632px; min-width: 0px; flex: 1 1 0%; color: rgb(0, 29, 53); font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><div class="f5cPye" style="letter-spacing: normal;"><div><div class="WaaZC"><div class="RJPOee EIJn2" style="color: rgb(0, 29, 53); animation: auto ease 0s 1 normal none running none;"><div class="rPeykc" style="margin: 0px 0px 20px; hyphens: auto;"><span><span><div>The Diliman II Evacuation Center in San Rafael, Bulacan is<span>&nbsp;</span>a temporary shelter designed to accommodate displaced individuals during disasters.<br></div></span><div><span><span>&nbsp;</span></span><br></div></span><div><span><span>It was initially constructed as a 22x36 square meter facility.</span><span><span>&nbsp;</span></span></span><span><span>Funding for the center came from the municipality's General Fund.</span><span><span>&nbsp;</span></span></span><br></div><span><div><span>Evacuation centers provide a safe space for people affected by disasters, offering basic shelter and other necessary services.</span><br></div><span class="pjBG2e"><span class="UV3uM" style="white-space: nowrap;"><div>&nbsp;<br></div><div class="NPrrbc" style="margin-right: 6px; display: inline-flex;"><div class="BMebGe btku5b fCrZyc LwdV0e FR7ZSc OJeuxf" aria-label="View related links" role="button" tabindex="0" style="color: rgb(11, 87, 208); display: inline-block; vertical-align: middle; cursor: pointer; outline: 0px;"><div class="niO4u" style="display: flex; justify-content: center; position: relative; align-items: stretch; width: 28px; background-color: transparent; outline: transparent solid 1px; outline-offset: -1px; margin: 0px auto; border-radius: 9999px; height: 20px; min-height: 20px;"><div class="kHtcsd" style="display: flex; align-items: center; justify-content: center; width: 28px; height: 20px; border-radius: 9999px;"><br></div></div></div></div></span></span></span></div></div></div></div></div></div><div class="kLMmLc" style="margin-right: unset; transition: opacity 400ms; max-width: 632px; color: rgb(0, 29, 53); font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><div style="height: 316.8px;"><div class="Clk5Ib" style="display: grid; grid-template-columns: 100%; position: relative; height: 316.8px;"><div class="IGvtd" style="grid-area: 1 / 1;"><div class="TRXNOc" style="margin-bottom: 20px; pointer-events: initial; top: 72px; position: sticky;"><div class="BOThhc" style="margin-right: 0px;"><div class="ifiyWc" style="display: block; opacity: 1;"><div id="folsrch-sources-1"><div><div class="fx92l" style="position: relative;"><br></div></div></div></div></div></div></div></div></div></div><div><br></div>]]></description>
+		<gx:mid>/g/11w9hm7pcs</gx:mid>
+		<gx:fid>0x339703004c68c225:0xb8482aa99be8bc99</gx:fid>
+		<LookAt>
+			<longitude>120.955331</longitude>
+			<latitude>15.036166</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1016.180574896054</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EDB4398F437E528FEEB</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>120.955331,15.036166,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="057B0005C637E47A50CB">
+		<name>San Rafael Fire Station</name>
+		<description><![CDATA[<div><span style="color: rgb(0, 29, 53); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><span class="font" style="font-family:&quot;Google Sans&quot;, Arial, sans-serif"><span class="size" style="font-size:18px"><span>The main fire station in San Rafael, Bulacan is likely the San Rafael Fire Station, which is a part of the Bureau of Fire Protection (BFP).<span>&nbsp;</span></span></span></span></span><br></div><span style="color: rgb(0, 29, 53); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><span class="font" style="font-family:&quot;Google Sans&quot;, Arial, sans-serif"><span class="size" style="font-size:18px"><span><div>While the specific phone number for the San Rafael Fire Station is not readily available in the search results,<span>&nbsp;</span>you can generally contact the BFP by calling 911.<br></div></span></span></span></span><div><br></div>]]></description>
+		<gx:mid>/g/11tgg7g2dt</gx:mid>
+		<gx:fid>0x3397004f82a55555:0x1dc27b0d629e6535</gx:fid>
+		<LookAt>
+			<longitude>120.9274358</longitude>
+			<latitude>14.9821479</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1016.467354142588</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EDB4398F437E528FEEB</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>120.9274768,14.9822323,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EF83B19B037E47CB523">
+		<name>San Rafael Police Station</name>
+		<description><![CDATA[<div><span style="color: rgb(0, 29, 53); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><span class="font" style="font-family:&quot;Google Sans&quot;, Arial, sans-serif"><span class="size" style="font-size:18px"><span>The San Rafael Municipal Police Station in Bulacan is responsible for law enforcement and maintaining order within the municipality.<span>&nbsp;</span></span></span></span></span><br></div><span style="color: rgb(0, 29, 53); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><span class="font" style="font-family:&quot;Google Sans&quot;, Arial, sans-serif"><span class="size" style="font-size:18px"><span><div>While a specific description of the station's building or layout isn't provided in the search results, you can reach the Bulacan PNP through their hotline:<span>&nbsp;</span>(044) 816-6113.<br></div></span><div><span><span>&nbsp;</span></span><br></div></span></span></span><div><span style="color: rgb(0, 29, 53); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><span class="font" style="font-family:&quot;Google Sans&quot;, Arial, sans-serif"><span class="size" style="font-size:18px"><span>The<span>&nbsp;</span><a class="uVhVib" href="https://sanrafael.gov.ph/aboutus/history/" style="color: rgb(11, 87, 208); text-decoration-line: underline; text-decoration-thickness: 1px; text-decoration-style: initial; font-weight: 500; text-underline-offset: 1px; outline: 0px;">Philippine National Police 117</a><span>&nbsp;</span>can also be contacted for general inquiries.</span><span class="pjBG2e"><span class="UV3uM" style="white-space: nowrap;">&nbsp;</span></span></span></span></span><br></div>]]></description>
+		<gx:mid>/g/11kj3f7t8f</gx:mid>
+		<gx:fid>0x3397004f77f3ffff:0xb1dec66720967b9c</gx:fid>
+		<LookAt>
+			<longitude>120.9273237</longitude>
+			<latitude>14.9822256</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1016.466942350791</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EDB4398F437E528FEEB</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>120.9273543,14.9822886,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01D0793F7737E4821EB1">
+		<name>R. De C. Galvez Medical Center, Inc.</name>
+		<description><![CDATA[<div><b>R. De C. Galvez Medical Center, Inc.</b> is a private hospital located in Barangay San Juan, San Ildefonso, Bulacan. Open 24/7, it offers a range of medical services including laboratory tests, X-ray, ultrasound, CT scan, and surgery. Staffed by specialists in internal medicine, cardiology, pulmonology, and more, it is also accredited by HMOs like iCare and ValuCare. For inquiries, call (044) 797 0510 or email <a rel="noopener" href="mailto:rdecgalvez_medicalcenter@yahoo.com">rdecgalvez_medicalcenter@yahoo.com</a>.<br></div>]]></description>
+		<gx:mid>/g/1pxq5gk0h</gx:mid>
+		<gx:fid>0x339702fdbff017df:0xc2e37868eb8c1d4e</gx:fid>
+		<LookAt>
+			<longitude>120.9401939</longitude>
+			<latitude>15.0802957</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1015.945555580893</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EDB4398F437E528FEEB</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>120.9401939,15.0802957,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07E505620E37E49111F3">
+		<name>Carpa Hospital</name>
+		<description><![CDATA[<div><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><b>Rugay General Hospital</b> is a private healthcare facility located on M. Cruz Street, Carpa Village, Barangay Sabang, Baliuag, Bulacan.</span> <span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">It operates 24/7, offering comprehensive medical services including general medicine, surgery, pediatrics, and obstetrics.</span> <span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">The hospital is accredited by several Health Maintenance Organizations (HMOs) such as iCare and ValuCare, facilitating healthcare access for insured patients.</span> <span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">For inquiries or appointments, you can contact them at (044) 766-3457 or email <a href="mailto:rugaygeneralhospital@gmail.com">rugaygeneralhospital@gmail.com</a>.</span><br></div>]]></description>
+		<gx:mid>/g/11g6hs58mp</gx:mid>
+		<gx:fid>0x339700141c64197b:0xa3ecc3de410bb953</gx:fid>
+		<LookAt>
+			<longitude>120.9133369</longitude>
+			<latitude>14.9689032</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1016.53751790965</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EDB4398F437E528FEEB</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>120.9133369,14.9689032,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ECB3C5AAA37E492C35B">
+		<name>San Rafael Rural Health Unit 1</name>
+		<description><![CDATA[<div><b>San Rafael Rural Health Unit I (RHU I)</b> is the main public health center of San Rafael, Bulacan, located in Barangay Sampaloc. It offers outpatient and basic healthcare services from Monday to Friday, 8:00 AM to 5:00 PM. Headed by Dr. Ma. Cristina Vergel de Dios, RHU I is committed to providing accessible and affordable healthcare to the community. For inquiries, contact 0917-597-6117 or (044) 902-0081.<br></div>]]></description>
+		<gx:mid>/g/11y8rgggvq</gx:mid>
+		<gx:fid>0x3397010064baac17:0x9cec97ea1fd05a63</gx:fid>
+		<LookAt>
+			<longitude>120.9275788</longitude>
+			<latitude>14.9819202</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1016.468560887408</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EDB4398F437E528FEEB</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>120.9275788,14.9819202,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0075F1F5C237E4964137">
+		<name>Bulacan Provincial Health Office</name>
+		<description><![CDATA[<article class="text-token-text-primary w-full" dir="auto"><div class="text-base my-auto mx-auto py-5 [--thread-content-margin:--spacing(4)] @[37rem]:[--thread-content-margin:--spacing(6)] @[72rem]:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)"><div class="[--thread-content-max-width:32rem] @[34rem]:[--thread-content-max-width:40rem] @[64rem]:[--thread-content-max-width:48rem] mx-auto flex max-w-(--thread-content-max-width) flex-1 text-base gap-4 md:gap-5 lg:gap-6 group/turn-messages focus-visible:outline-hidden" tabindex="-1"><div class="group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn"><div class="relative flex-col gap-1 md:gap-3"><div class="flex max-w-full flex-col grow"><div dir="auto" class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-5"><div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]"><div class="markdown prose dark:prose-invert w-full break-words light"><p><b>Bulacan Provincial Health Office (PHO)</b> is the government agency responsible for promoting public health and delivering essential healthcare services across the province. It oversees programs on disease prevention, maternal and child health, immunization, and emergency medical response. Located in Malolos City, PHO works with local health units to ensure accessible and quality health services for all Bulakenyos.<br></p></div></div></div></div><div class="flex justify-start"><div class="touch:-me-2 touch:-ms-3.5 -ms-2.5 -me-1 flex items-center p-1 select-none -mt-1 duration-[1.5s] focus-within:transition-none hover:transition-none pointer-events-none [mask-image:linear-gradient(to_right,black_33%,transparent_66%)] [mask-position:100%_0%] [mask-size:300%_100%] motion-safe:transition-[mask-position] group-hover/turn-messages:pointer-events-auto group-hover/turn-messages:[mask-position:0_0] group-focus-within/turn-messages:pointer-events-auto group-focus-within/turn-messages:[mask-position:0_0] has-data-[state=open]:pointer-events-auto has-data-[state=open]:[mask-position:0_0]"><span></span><span></span><span></span><span></span><span></span><span><div class="flex items-center pb-0"><span class="overflow-hidden text-sm text-clip whitespace-nowrap">4o</span><br></div></span></div></div><div class="mt-3 w-full empty:hidden"><div class="text-center"><br></div></div></div><div class="absolute"><span><div class="flex items-center justify-center"><br></div></span></div></div></div></div></article><div aria-hidden="true" class="pointer-events-none h-px w-px"><br></div>]]></description>
+		<gx:mid>/g/11x257mt50</gx:mid>
+		<gx:fid>0x339653004ac11957:0x18f10368473707b2</gx:fid>
+		<LookAt>
+			<longitude>120.8151326</longitude>
+			<latitude>14.8592213</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1017.116261390992</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0EDB4398F437E528FEEB</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>120.81513,14.8592191,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

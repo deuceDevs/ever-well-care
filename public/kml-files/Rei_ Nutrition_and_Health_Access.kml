@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+     xmlns:gx="http://www.google.com/kml/ext/2.2"
+     xmlns:kml="http://www.opengis.net/kml/2.2"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name>Untitled project</name>
+
+    <gx:CascadingStyle id="__managed_style_090BEF00AE37E2BD4B43">
+      <styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+      <Style>
+        <IconStyle>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+          </Icon>
+          <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+        </IconStyle>
+        <LabelStyle/>
+        <LineStyle>
+          <color>ff2dc0fb</color>
+          <width>6</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>40ffffff</color>
+        </PolyStyle>
+        <BalloonStyle/>
+      </Style>
+    </gx:CascadingStyle>
+
+    <gx:CascadingStyle id="__managed_style_0FDDE4AE8C37E2BD4B3F">
+      <styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+          </Icon>
+          <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+        </IconStyle>
+        <LabelStyle/>
+        <LineStyle>
+          <color>ff2dc0fb</color>
+          <width>4</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>40ffffff</color>
+        </PolyStyle>
+        <BalloonStyle/>
+      </Style>
+    </gx:CascadingStyle>
+
+    <StyleMap id="__managed_style_04C24E1B0937E2BD4B3E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#__managed_style_0FDDE4AE8C37E2BD4B3F</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#__managed_style_090BEF00AE37E2BD4B43</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Placemark id="038432E87937E2BA8F9F">
+      <name>Nutrition and Health Access</name>
+      <description><![CDATA[
+        <p>The <b>Municipal Nutrition Office</b> of San Rafael actively promotes community nutrition through various initiatives, including educational campaigns and contests aimed at encouraging healthy eating habits among residents.<br></p>
+        <p>Additionally, the Municipality of San Rafael has been recognized for its effective implementation of nutrition programs, receiving accolades such as the "Natatanging Bayan sa Nutrisyon" award.<br></p>
+        <p>For personalized nutrition advice and health services, residents can visit their local Barangay Health Stations, which are part of the municipality's health infrastructure.<br></p>
+        <div><br></div>
+      ]]></description>
+      <LookAt>
+        <longitude>120.967326256973</longitude>
+        <latitude>14.99948114551957</latitude>
+        <altitude>42.82774690712476</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <gx:fovy>35</gx:fovy>
+        <range>8652.298709914323</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__managed_style_04C24E1B0937E2BD4B3E</styleUrl>
+      <Point>
+        <coordinates>120.9531968483854,14.99928902422982,28.83151833412403</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>

@@ -14,6 +14,7 @@ import dannah from "/assets/7.jpg";
 import zoe from "/assets/4.jpg";
 import crizzel from "/assets/3.jpg";
 import joana from "/assets/2.jpg";
+
 import {
   Carousel,
   CarouselContent,
@@ -32,6 +33,7 @@ import {
   Apple,
 } from "lucide-react";
 import { Link } from "react-router-dom";
+import VideoGallery from "@/components/Video";
 
 export default function Home() {
   const topRow = [
@@ -318,14 +320,19 @@ export default function Home() {
       {/* Topic Highlights */}
       <section className="min-h-screen flex flex-col justify-center p-4 bg-gradient-to-tl from-purple-50 to-fuchsia-100">
         <div className="container mx-auto">
-          <h2 className="text-xl sm:text-2xl md:text-8xl  mb-2 text-center font-poppins text-purple-950">
+          <h2 className="text-5xl   md:text-8xl  mb-2 text-center font-poppins text-purple-950 mt-20">
             Empowering Health & Wellness for Every Mother and Child
           </h2>
-          <p className="text-center  mb-8 max-w-6xl mx-auto font-poppinslight text-3xl mt-10 text-purple-900">
+          <p className="text-center mb-8 max-w-6xl mx-auto font-poppinslight text-3xl mt-10 text-purple-900">
             Discover essential health topics tailored to support moms and
             children — from hygiene and safety to nutrition and disease
             prevention.
           </p>
+          {/* Video Container */}
+          <div className="w-full">
+            {" "}
+            <VideoGallery />
+          </div>
 
           <Carousel
             opts={{

@@ -141,13 +141,13 @@ export default function Home() {
       {/* Hero */}
       <section className="min-h-screen border flex flex-col lg:flex-row justify-around items-center bg-[url('/assets/heroBg2.jpg')] bg-cover bg-center bg-no-repeat p-4 sm:p-8">
         <div className="heading max-w-full lg:max-w-[50%] text-center lg:text-start">
-          <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-poppins text-purple-950 font-bold">
+          <h1 className="text-6xl mt-10 md:text-6xl lg:text-7xl xl:text-8xl font-poppins text-purple-950 font-bold">
             Women's and{" "}
           </h1>
-          <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-poppins text-purple-950 font-bold">
+          <h1 className="text-6xl md:text-6xl lg:text-7xl xl:text-8xl font-poppins text-purple-950 font-bold">
             Children's Health
           </h1>
-          <p className="w-full max-w-full sm:max-w-[90%] md:max-w-[80%] lg:max-w-full lg:w-[90%] xl:w-[700px] font-poppinslight text-base sm:text-lg text-start ms-0 lg:ms-3 mt-3 text-purple-900">
+          <p className="w-full font-semibold mt-20 max-w-full sm:max-w-[90%] md:max-w-[80%] lg:max-w-full lg:w-[90%] xl:w-[700px] font-poppinslight text-xl text-start ms-0 lg:ms-3 lg:mt-3 text-purple-900">
             This website is your trusted space for learning, growing, and taking
             action toward a healthier future for women, mothers, and children.
             Whether you're a parent, student, health worker, or someone
@@ -166,14 +166,18 @@ export default function Home() {
       <section className="min-h-screen bg-white py-24 px-6">
         {/* Headings */}
         <div className="text-center font-poppins mb-20">
-          <h1 className="text-4xl md:text-6xl font-bold text-purple-950">
+          <h1 className="text-6xl md:text-6xl font-bold text-purple-950">
             Wellness Made Easy
           </h1>
           <h2 className="text-xl md:text-3xl text-purple-900 mt-4">
             Nearby Care & Helpful Blogs for Women and Kids
           </h2>
         </div>
-
+        {/* Video Container */}
+        <div className="mx-auto  md:w-[1000px] lg:w-[1300px]">
+          {" "}
+          <VideoGallery />
+        </div>
         {/* Feature Cards */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-6xl mx-auto">
           {/* Blog Card */}
@@ -233,10 +237,10 @@ export default function Home() {
       <section className="min-h-screen w-full flex items-center justify-center px-4 py-10 bg-[url('/assets/bgbg.jpg')] bg-cover bg-center">
         <div className="about-container flex flex-col gap-6 sm:gap-10 max-w-4xl w-full">
           <div className="p-3 w-full">
-            <h1 className="font-poppins text-4xl sm:text-6xl lg:text-8xl text-white">
+            <h1 className="font-poppins text-6xl sm:text-6xl lg:text-8xl text-white">
               Who We Are
             </h1>
-            <p className="break-words font-poppinslight text-base sm:text-lg lg:text-xl mt-3 text-white">
+            <p className="break-words  font-poppins text-base sm:text-lg lg:text-xl mt-3 text-white">
               We are a group of seven passionate nursing students committed to
               promoting women’s and children’s health through education,
               awareness, and community support. This website is part of our
@@ -246,10 +250,10 @@ export default function Home() {
           </div>
 
           <div className="p-3 w-full">
-            <h1 className="font-poppins text-4xl sm:text-6xl lg:text-8xl text-white">
+            <h1 className="font-poppins text-6xl lg:text-8xl text-white">
               Our Academic Background
             </h1>
-            <p className="break-words font-poppinslight text-base sm:text-lg lg:text-xl mt-3 text-white">
+            <p className="break-words font-poppins text-base sm:text-lg lg:text-xl mt-3 text-white ">
               This project was developed as part of our coursework in: Bachelor
               of Science in Nursing
               <br />
@@ -328,11 +332,6 @@ export default function Home() {
             children — from hygiene and safety to nutrition and disease
             prevention.
           </p>
-          {/* Video Container */}
-          <div className="w-full">
-            {" "}
-            <VideoGallery />
-          </div>
 
           <Carousel
             opts={{

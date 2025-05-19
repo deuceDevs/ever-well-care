@@ -14,6 +14,7 @@ import HomeSafety from "./pages/topics/HomeSafety";
 import ChildHoodObesity from "./pages/topics/ChildHoodObesity";
 import Blogs from "./pages/Blogs";
 import Map from "./pages/Places";
+import  KmlFileDetail  from "./pages/KmlFileDetail";
 
 export default function App() {
   return (
@@ -59,6 +60,7 @@ export default function App() {
           <Route path="/blogs" element={<Blogs />} />
           <Route path="/blog/:id" element={<BlogDetail />} />
           <Route path="/map" element={<Map />} />
+           <Route path="/kml/:fileName" element={<KmlFileDetail />} />
         </Routes>
       </div>
     </Router>

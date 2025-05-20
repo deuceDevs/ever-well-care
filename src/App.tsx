@@ -15,6 +15,7 @@ import ChildHoodObesity from "./pages/topics/ChildHoodObesity";
 import Blogs from "./pages/Blogs";
 import Map from "./pages/Places";
 import  KmlFileDetail  from "./pages/KmlFileDetail";
+import Reflection from "./pages/Reflection";
 
 export default function App() {
   return (
@@ -55,6 +56,10 @@ export default function App() {
           <Route
             path="/topics/preventing-and-addressing-childhood-obesity"
             element={<ChildHoodObesity />}
+          />
+            <Route
+            path="/reflection"
+            element={<Reflection/>}
           />
 
           <Route path="/blogs" element={<Blogs />} />

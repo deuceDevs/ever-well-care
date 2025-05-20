@@ -6,7 +6,7 @@ import {
   CardFooter,
 } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import { MapPin, BookOpen } from "lucide-react";
+import { MapPin, BookOpen,Newspaper } from "lucide-react";
 import alexa from "/assets/1.jpg";
 import rei from "/assets/5.jpg";
 import angeline from "/assets/6.jpg";
@@ -179,7 +179,7 @@ export default function Home() {
           <VideoGallery />
         </div>
         {/* Feature Cards */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-6xl mx-auto">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-10 max-w-6xl mx-auto">
           {/* Blog Card */}
           <Card className="bg-white shadow-xl rounded-2xl flex flex-col justify-between text-center">
             <CardHeader className="flex flex-col items-center gap-4 pt-10">
@@ -207,7 +207,7 @@ export default function Home() {
           </Card>
 
           {/* Maps Card */}
-          <Card className="bg-white shadow-xl rounded-2xl flex flex-col justify-between text-center">
+           <Card className="bg-white shadow-xl rounded-2xl flex flex-col justify-between text-center">
             <CardHeader className="flex flex-col items-center gap-4 pt-10">
               <MapPin className="w-12 h-12 text-purple-700" />
               <CardTitle className="text-2xl font-semibold text-purple-900">
@@ -228,6 +228,29 @@ export default function Home() {
                 }}
               >
                 View Map
+              </Button>
+            </CardFooter>
+          </Card>
+            <Card className="bg-white shadow-xl rounded-2xl flex flex-col justify-between text-center">
+            <CardHeader className="flex flex-col items-center gap-4 pt-10">
+              <Newspaper className="w-12 h-12 text-purple-700" />
+              <CardTitle className="text-2xl font-semibold text-purple-900">
+               Reflection
+              </CardTitle>
+            </CardHeader>
+            <CardContent className="px-6">
+              <p className="text-gray-600 text-lg">
+                This section offers a thoughtful evaluation of the journey, highlighting key takeaways, personal growth, and areas for future improvement. It serves as an opportunity to critically assess what was learned and how those insights can inform future efforts.
+              </p>
+            </CardContent>
+            <CardFooter className="pb-10 mt-4 flex justify-center">
+              <Button
+                className="bg-purple-600 text-white hover:bg-purple-700 rounded-full px-6 py-2"
+                onClick={() => {
+                  navigate("/reflection");
+                }}
+              >
+                View Reflection
               </Button>
             </CardFooter>
           </Card>

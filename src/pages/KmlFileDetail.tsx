@@ -141,7 +141,7 @@ export default function KmlFileDetail() {
   const decodedFileName = decodeURIComponent(fileName);
   const detail = mockDetails[decodedFileName];
   return (
-    <div className="p-15  mx-auto">
+    <div className="p-15  mx-auto bg-gradient-to-tl from-purple-50 to-fuchsia-100">
       <h1 className="text-4xl font-poppins  font-bold mb-2 text-purple-950">{detail.title}</h1>
       <p className="mb-4 text-purple-900 text-lg">{detail.description}</p>
       <img
